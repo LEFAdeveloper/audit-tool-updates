@@ -1,2 +1,2 @@
 # Audit Tool update. The app reads the version line. The setup name is fixed.
-2.5.1
+2.5.2
